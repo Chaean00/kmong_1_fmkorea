@@ -1,0 +1,1 @@
+pyinstaller --onefile -n=Tottoria -w --icon=fireicon.ico main.py
